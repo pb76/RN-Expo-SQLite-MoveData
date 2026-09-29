@@ -9,14 +9,16 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "expo": "^53.0.20",
-    "expo-sqlite": "~15.2.14",
-    "expo-status-bar": "~2.2.3",
-    "react": "19.0.0",
-    "react-native": "0.79.5"
+    "expo": "^57.0.25",
+    "expo-splash-screen": "~57.0.9",
+    "expo-sqlite": "~57.0.3",
+    "expo-status-bar": "~57.0.1",
+    "react": "19.2.3",
+    "react-native": "0.86.3"
   },
   "devDependencies": {
-    "@babel/core": "^7.26.0"
+    "@babel/core": "^7.29.0",
+    "babel-preset-expo": "~57.0.0"
   },
   "private": true
 }
